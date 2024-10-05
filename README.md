@@ -1,4 +1,5 @@
-#VHDL Project: ARM Processor with 4-Stage Pipeline
+# VHDL Project: ARM Processor with 4-Stage Pipeline
+
 This repository contains the VHDL source files for the implementation of a 4-stage pipelined ARM processor. The pipeline stages include Instruction Fetch (IFETCH), Decode (DECOD), Execute (EXE), and Memory Access (MEM), which are key to achieving efficient instruction processing and performance.
 
 Project Overview
